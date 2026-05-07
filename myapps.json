@@ -6,18 +6,6 @@
     "icon": "https://play-lh.googleusercontent.com/t2i6otO3mIgTvR06RZkvArFgVz72cq9VUTfHCXpgjxri8eiTAczk91a6PXr-7UxA0bA7RapkYHhUwgmq63J_=s256"
   },
   {
-    "name": "Scout - Profit Calculator",
-    "package": "com.codebage.scout",
-    "description": "Profit calculator and tracker for online sellers and traders.",
-    "icon": "https://play-lh.googleusercontent.com/ylPWouk-KTgT8B5Ro1V6XCPN1UZBQhZM36K3ycEdfL1lW6yAjmchl0g8d2QUN-VeyiGcCeiaesFFY8cxcc92Ng=s256"
-  },
-  {
-    "name": "Mart Scout - Profit Calculator",
-    "package": "com.codebage.martscout",
-    "description": "Profit calculator built for retail marketplace sellers to analyze sales.",
-    "icon": "https://play-lh.googleusercontent.com/zroTnBJlDULvbMK9R4Xh1-VtTdXL3Ou5fSsQfIuN--w5S40-ngME-H8vHddbgVjDBkbmaTj52mK_jSKhm4GFbw=s256"
-  },
-  {
     "name": "ArtAnimator - Animation Maker",
     "package": "com.codebage.artanimator",
     "description": "Create animations and motion art right on your phone, frame by frame.",
@@ -30,40 +18,16 @@
     "icon": "https://play-lh.googleusercontent.com/l64V6tfjyuabM5giJ-3mc8cISIRPfRCcXX2kEuVI0r6f3kuqdzyf7EJUfFFPX3f-ExQRWgkzulzhCEXkLNJ59Z4=s256"
   },
   {
-    "name": "Real Islam, Prayer Times Quran",
-    "package": "com.codebage.realislam",
-    "description": "Prayer times, Quran, Qibla, and daily Islamic guidance in one app.",
-    "icon": "https://play-lh.googleusercontent.com/0lyeVLOomzw_BlJYoNlMwRdCo-Xa4H7wmsru6pcSzqdaPiq9Hbo1NZVB3Sex2g0MK8w=s256"
-  },
-  {
     "name": "Flipify - AI Video Effects",
     "package": "com.codebage.flipify",
     "description": "Add AI video effects and dynamic transitions to your clips.",
     "icon": "https://play-lh.googleusercontent.com/JUcbE2jrhX2ncR4lvqHfBtYOXrkQTmcy_0rgOdkCahQxSk0xZ67rtQDO2x44ECpBaUNOB5wGNUL9W5pKGqUnvA=s256"
   },
   {
-    "name": "For you - Follower, AI Enhance",
-    "package": "com.codebage.foryoupage",
-    "description": "Boost your reach with AI photo enhancement and follower tools.",
-    "icon": "https://play-lh.googleusercontent.com/vb1yDRRYbesqCTKt3JwITWajF8Hk0EykD8HJVWOYV8x0iRz4RRj2IfLu8NWP540K0gF-=s256"
-  },
-  {
     "name": "Captio - AI Subtitle & Caption",
     "package": "com.codebage.subreach",
     "description": "Auto-generate subtitles and captions for videos using AI.",
     "icon": "https://play-lh.googleusercontent.com/Y_D8imrJQdQqMZEoSuh73Y9LokvM6-b5fcLQkLXBkhGz1g4TdavYTyuOmLAd2-Smht7BrbpqXKrGVlkmJaFyJ_8=s256"
-  },
-  {
-    "name": "Store Rush: Idle Boss",
-    "package": "com.codebage.storerush",
-    "description": "Idle tycoon game where you build your store and become a boss.",
-    "icon": "https://play-lh.googleusercontent.com/ThFkpqkh564op237IlZ0bMixWRF0D0oPEyXuCJm1xApDj_TrmFiI2G8QpYuzjsZ8HbM=s256"
-  },
-  {
-    "name": "Send Direct Message w/o Saving",
-    "package": "com.codebage.nosave",
-    "description": "Send WhatsApp messages without saving the contact number.",
-    "icon": "https://play-lh.googleusercontent.com/oXEtlFcHeo9XbeY3CR3BTfOUc2-Abe4wnM22hs4IJBM2JonONqOSYMpxWctP7po=s256"
   },
   {
     "name": "Reply AI - Smart Comment Reply",
@@ -77,10 +41,17 @@
     "description": "Prank friends with realistic fake hacker screen visuals.",
     "icon": "https://play-lh.googleusercontent.com/IFaVzloepQsf7GPiKlAlYa5-tZeGkxVzJrnlHT8npokzEFqF-0ACFcZSYmcESIpo5g0uh6Jui2A5X9KBQp4F7Q=s256"
   },
+  
   {
-    "name": "Battle Reel: Epic Army Wars",
-    "package": "com.codebage.battlereel",
-    "description": "Strategic army war game with epic battle scenarios.",
-    "icon": "https://play-lh.googleusercontent.com/sOffyJQfUL2w85NB0aMKIag9HgiUDnJshvqYM9LNH5OxqEJWPhSHadlHxu9cJBEx4F3fT_F26fSjk1K_TgWe=s256"
-  }
+    "name": "Scout - Profit Calculator",
+    "package": "com.codebage.scout",
+    "description": "Profit calculator and tracker for online sellers and traders.",
+    "icon": "https://play-lh.googleusercontent.com/ylPWouk-KTgT8B5Ro1V6XCPN1UZBQhZM36K3ycEdfL1lW6yAjmchl0g8d2QUN-VeyiGcCeiaesFFY8cxcc92Ng=s256"
+  },
+  {
+    "name": "Mart Scout - Profit Calculator",
+    "package": "com.codebage.martscout",
+    "description": "Profit calculator built for retail marketplace sellers to analyze sales.",
+    "icon": "https://play-lh.googleusercontent.com/zroTnBJlDULvbMK9R4Xh1-VtTdXL3Ou5fSsQfIuN--w5S40-ngME-H8vHddbgVjDBkbmaTj52mK_jSKhm4GFbw=s256"
+  },
 ]
